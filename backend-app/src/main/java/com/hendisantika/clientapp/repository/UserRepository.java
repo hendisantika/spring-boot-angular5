@@ -21,7 +21,7 @@ public interface UserRepository extends Repository<User, Integer> {
 
     List<User> findAll();
 
-    User findOne(int id);
+    User findById(int id);
 
     User save(User user);
 }
