@@ -33,7 +33,7 @@
     "@types/jasmine": "~2.5.53",
     "@types/jasminewd2": "~2.0.13",
     "@types/node": "~22.7.5",
-    "codelyzer": "^4.0.1",
+    "codelyzer": "^6.0.2",
     "jasmine-core": "~5.3.0",
     "jasmine-spec-reporter": "~4.1.0",
     "karma": "~6.3.16",
