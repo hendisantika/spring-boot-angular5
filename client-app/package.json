@@ -29,7 +29,7 @@
   "devDependencies": {
     "@angular/cli": "20.0.5",
     "@angular/compiler-cli": "^20.0.6",
-    "@angular/language-service": "^20.0.6",
+    "@angular/language-service": "^20.1.0",
     "@types/jasmine": "~5.1.8",
     "@types/jasminewd2": "~2.0.13",
     "@types/node": "~24.0.11",
