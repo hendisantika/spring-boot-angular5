@@ -20,7 +20,7 @@
     "@angular/http": "^7.2.16",
     "@angular/platform-browser": "^20.1.4",
     "@angular/platform-browser-dynamic": "^20.1.4",
-    "@angular/router": "^20.1.4",
+    "@angular/router": "^20.1.6",
     "bootstrap": "^5.3.7",
     "core-js": "^3.44.0",
     "rxjs": "^7.8.2",
