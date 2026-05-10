@@ -24,7 +24,7 @@
     "bootstrap": "^5.3.8",
     "core-js": "^3.49.0",
     "rxjs": "^7.8.2",
-    "zone.js": "^0.16.1"
+    "zone.js": "^0.16.2"
   },
   "devDependencies": {
     "@angular/cli": "21.2.10",
